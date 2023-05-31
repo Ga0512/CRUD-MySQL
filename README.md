@@ -1,2 +1,2 @@
 # CRUD MySQL
- CRUD projetc using Python MuSQL DB
+ CRUD projetc using Python MySQL DB
